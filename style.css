@@ -11,12 +11,13 @@ body {
   image-rendering: crisp-edges;
   background-color: rgba(0, 0, 0, .2);
 
-  color: #4b7c88;
+  color: #198b1e;
 }
 
 a {
-  color: #285e9c;
+  color: #138d13;
 }
+
 
 .ret {
   color: white;
